@@ -7,3 +7,9 @@
 - 📫 Twitter: https://twitter.com/MoodaG1998 
 - 📫 LinkedIn: https://www.linkedin.com/in/hassan-mahmood-buic-fall2018/
 - ⚡ Fun fact: I have a bad habit of procrastinating a lot. More than any normal human being. :grinning:
+
+
+![](https://raw.githubusercontent.com/hmnk-1967/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hmnk-1967/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/hmnk-1967/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hmnk-1967/github-stats/master/generated/languages.svg#gh-light-mode-only)
