@@ -1,4 +1,4 @@
-# ABOUT ME :simple_smile:
+:simple_smile: # ABOUT ME
 Hi there. 👋 My name's not important. Like many of you on GitHub, I'm learning Git and its fundamental basics. Also, ignore the "PRO" tag on my profile because I'm not a pro. :grinning:
 
 
