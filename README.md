@@ -14,3 +14,5 @@ Hi there. 👋 My name's not that important. Like many of you on GitHub, I'm lea
 ![](https://raw.githubusercontent.com/hmnk-1967/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/hmnk-1967/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/hmnk-1967/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hmnk-1967&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&stroke=0116DD&currStreakLabel=62DD03&ring=5CDD47)](https://git.io/streak-stats)
